@@ -6,4 +6,4 @@ numpy>=1.24.0          # Needed by OpenCV and Mediapipe internally
 pillow>=10.0.0         # Needed by PyAutoGUI for image handling
 
 # To install all dependencies, run:
-pip install -r requirements.txt
+# pip install -r requirements.txt
